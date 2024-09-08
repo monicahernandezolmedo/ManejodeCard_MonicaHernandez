@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListaComida2025-I</string>
+    <string name="desayuno">Huevo estrellado</string>
+    <string name="hamburger">Hamburguesa sencilla</string>
+    <string name="pizza">Pizzas hawaiana</string>
+    <string name="postre">Pastel de chocolate</string>
+    <string name="pozole">Pozole rojo</string>
+    <string name="tacos">Tacos de pastor</string>
+
+    <string name="promo_desayuno">2x1 Todos los días</string>
+    <string name="promo_hamburger">Miércoles de hamburguesas 2x1</string>
+    <string name="promo_pizza">$190 Lunes a Miércoles</string>
+    <string name="promo_postre">Ahorra hasta el 15%</string>
+    <string name="promo_pozole">10% de descuento</string>
+    <string name="promo_tacos">Promo de tacos al 2x1</string>
+
+    <string name="precio_desayuno">MX $70.0</string>
+    <string name="precio_hamburger">MX $125.0</string>
+    <string name="precio_pizza">MX $220.0</string>
+    <string name="precio_postre">MX $115.0</string>
+    <string name="precio_pozole">MX $135.0</string>
+    <string name="precio_tacos">MX $80.0</string>
+
+
+</resources>
